@@ -1,0 +1,11 @@
+COMO EJECUTAR:
+Ejecutar "make help" en el directorio "FONTS" para obtener la informacion de compilacion y ejecucion.
+Aun estamos investigando por que motivos no se puede ejectuar solamente abriendo el .jar, hay que pasarle la direccion de las librerias para ejecturarlo correctamente, asi que para todos los ejecutables, hay que hacerlo desde el makefile situado en FONTS.
+
+SOBRE LOS FICHEROS:
+Todos las explicaciones de clases, atributos y metodos estan especificadas en el Doxygen, asi como los directorios y su estructura.
+
+La ruta de source que contiene todas las clases es la siguiente:
+"FONTS/src/main/java/fxsrc/propyecto/"
+
+
