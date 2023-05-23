@@ -2,6 +2,8 @@
 
 **`PROP-FIB recommender application project`**
 
+Mark: MH (10)
+
 ### Executing
 - Per a executar el programa, descomprimir DOCS.zip, FONTS.zip & EXE.zip i llegir HowToExecute.txt
 - Para ejecutar el programa, descomprimir DOCS.zip, FONTS.zip & EXE.zip y leer HowToExecute.txt
